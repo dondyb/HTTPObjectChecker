@@ -8,7 +8,7 @@ Usage :
 **checker.py -i fileinput**
 
 
-fileinput should be a text file consisting of all the objects url like :
+fileinput should be a text file consisting of all the objects url like :<br/>
 http://somedomain.com/somefolder/somefile.txt <br/>
 http://somedomain.com/somefolder/somefile2.txt <br/>
 http://somedomain.com/somefolder/somefile3.txt <br/>
